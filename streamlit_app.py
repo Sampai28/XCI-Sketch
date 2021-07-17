@@ -50,6 +50,6 @@ def stream_run():
 if __name__ == "__main__":
     st.set_page_config(
     initial_sidebar_state="expanded",
-    page_title="Semantic Segmentation"
+    page_title="Colored Sketches"
     )
     stream_run()
