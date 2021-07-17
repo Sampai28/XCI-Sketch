@@ -19,7 +19,7 @@ def stream_run():
     st.text("")
     st.text("") 
     st.sidebar.markdown('''
-        Perceptual User Study form for Research Paper 
+        # Perceptual User Study form for Research Paper 
         ''')
     #st.sidebar.image(image_out("demo_data/LBL.png"))
     st.sidebar.markdown('''
