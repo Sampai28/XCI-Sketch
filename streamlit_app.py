@@ -39,7 +39,7 @@ Link to the form: https://forms.office.com/r/CJjhvfmg6s
 For any queries, message Manushree (+918838451020).
     ''')
     
-    st.sidebar.markdown('''Add link to github''')
+    st.sidebar.markdown('''''')
 
     #image = "demo_data/15_4.png"
     if st.button("Generate"):  
