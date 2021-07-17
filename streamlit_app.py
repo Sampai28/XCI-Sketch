@@ -27,7 +27,7 @@ def stream_run():
     - Add content
     ''')
     
-    st.sidebar.markdown('''Add link to github repo''')
+    st.sidebar.markdown('''Add link to github''')
 
     #image = "demo_data/15_4.png"
     if st.button("Generate"):  
@@ -36,16 +36,16 @@ def stream_run():
         for i in randomlist:
             image.append(os.path.join('demo_data/plt_inference', file_name[i]))
         
-    st.image(np.array(image_out(image[0])), use_column_width=True)  
-    st.image(np.array(image_out(image[1])), use_column_width=True)  
-    st.image(np.array(image_out(image[2])), use_column_width=True)  
-    st.image(np.array(image_out(image[3])), use_column_width=True)  
-    st.image(np.array(image_out(image[4])), use_column_width=True)  
-    st.image(np.array(image_out(image[5])), use_column_width=True)  
-    st.image(np.array(image_out(image[6])), use_column_width=True)  
-    st.image(np.array(image_out(image[7])), use_column_width=True)  
-    st.image(np.array(image_out(image[8])), use_column_width=True)  
-    st.image(np.array(image_out(image[9])), use_column_width=True)  
+    st.image(np.array(image_out(image[0]))[150:350,:], use_column_width=True)  
+    st.image(np.array(image_out(image[1]))[150:350,:], use_column_width=True)  
+    st.image(np.array(image_out(image[2]))[150:350,:], use_column_width=True)  
+    st.image(np.array(image_out(image[3]))[150:350,:], use_column_width=True)  
+    st.image(np.array(image_out(image[4]))[150:350,:], use_column_width=True)  
+    st.image(np.array(image_out(image[5]))[150:350,:], use_column_width=True)  
+    st.image(np.array(image_out(image[6]))[150:350,:], use_column_width=True)  
+    st.image(np.array(image_out(image[7]))[150:350,:], use_column_width=True)  
+    st.image(np.array(image_out(image[8]))[150:350,:], use_column_width=True)  
+    st.image(np.array(image_out(image[9]))[150:350,:], use_column_width=True)  
 
 if __name__ == "__main__":
     st.set_page_config(
