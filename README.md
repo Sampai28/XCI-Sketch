@@ -1,1 +1,1 @@
-# Generated COLOR HAHAHAHAH Sketches
+# Generated COLOR HAHAHAH Sketches
