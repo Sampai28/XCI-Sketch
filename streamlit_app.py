@@ -15,32 +15,11 @@ def stream_run():
     image = []
     for i in randomlist:
         image.append(os.path.join('demo_data/plt_inference', file_name[i]))
-    st.title("Colored Sketches")
+    st.title("Photo-Colored Sketches")
     st.text("")
     st.text("") 
-    st.sidebar.markdown('''
-        # Perceptual User Study form for Research Paper 
-        ''')
     #st.sidebar.image(image_out("demo_data/LBL.png"))
-    st.sidebar.markdown('''
-    Thank you for visiting this page! Our team consisting of Ankita Ghosh, Manisimha Varma, Harsh Rathod, Sameer Saxena, V Manushree and Parna Chowdhury have worked on a research project on the problem statement of generating coloured sketches from photographic images.
-
-We request you to view our results on this site and fill a survey form which will help us analyse the results produced by our team. We request you to help our research by following the given steps and thank you in advance for your time and response.\nLink to the form: https://forms.office.com/r/CJjhvfmg6s\n
-- A) Every time you click on the generate button, 10 random results are generated and displayed.
-- B) View at least 50 results, that is, generate a minimum of 5 set of results. There is no limit to maximum, you can generate and view as many set of results as you wish. We request you to keep a count of the number of times you generate results as we will require it for our statistical analysis. 
-- C) In the form, please fill your name, number of sets of results viewed and categorize yourself as either general user or a user with artistic background.
-- D) Answer the questions 5,6,7 with respect to both the results: colored outline and colored sketch. You are required to answer the question in a score ranging from 1 to 5 according to the following legend:\n
-1: Very Poor\n
-2: Bad\n
-3: Average\n
-4: Good\n
-5: Perfect\n
-
-
-For any queries, message Manushree (+918838451020).
-    ''')
     
-    st.sidebar.markdown('''''')
 
     #image = "demo_data/15_4.png"
     if st.button("Generate"):  
@@ -63,6 +42,6 @@ For any queries, message Manushree (+918838451020).
 if __name__ == "__main__":
     st.set_page_config(
     initial_sidebar_state="expanded",
-    page_title="Colored Sketches"
+    page_title="Photo-Colored Sketches"
     )
     stream_run()
