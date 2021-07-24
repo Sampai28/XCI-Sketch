@@ -8,8 +8,8 @@ We use the [Contour Drawing Dataset presented in the Photo-Sketching paper](http
   - We first select an optimal threshold value (TryingDifferentThresholdValues.ipynb) based on which we perform preprocessing and K-Means Color Clustering (GeneratingImagesBasedOnKVals.ipynb) on the images. 
   - Using the post-processing image and grayscale sketches we generate colored outlines (GeneratingOutlines.ipynb).
 - **Generating Colored Sketches**: 
-  -We propose another method to produce color-filled sketches by performing colorspace manipulation (data_preprocessing.ipynb). 
-  -We go a step further to use these sketches as the training dataset for a Generative Adversarial Network and develop a model which can generate colored sketches from unseen images (Sketch_gan.ipynb).
+  - We propose another method to produce color-filled sketches by performing colorspace manipulation (data_preprocessing.ipynb). 
+  - We go a step further to use these sketches as the training dataset for a Generative Adversarial Network and develop a model which can generate colored sketches from unseen images (Sketch_gan.ipynb).
   
 View our results on [StreamLit app](https://share.streamlit.io/sampai28/generatedsketches/main)
 
