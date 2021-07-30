@@ -15,7 +15,7 @@ def stream_run():
     image = []
     for i in randomlist:
         image.append(os.path.join('demo_data/plt_inference', file_name[i]))
-    st.title("Photo-Colored Sketches")
+    st.title("XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches")
     st.text("")
     st.text("") 
     #st.sidebar.image(image_out("demo_data/LBL.png"))
@@ -42,6 +42,6 @@ def stream_run():
 if __name__ == "__main__":
     st.set_page_config(
     initial_sidebar_state="expanded",
-    page_title="Photo-Colored Sketches"
+    page_title="XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches"
     )
     stream_run()
