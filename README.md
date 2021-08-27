@@ -1,3 +1,16 @@
+<div align="center">
+  
+# XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches
+[Harsh Rathod](), [Manisimha Varma](), [Parna Chowdhury](), [Sameer Saxena](https://github.com/Sampai28/GeneratedSketches), [V Manushree](), [Ankita Ghosh](https://github.com/ankitaghosh9), [Sahil Khose](https://github.com/sahilkhose)
+ 
+</div>
+
+--------------------------------------------------------------------------------------------
+
+Official implementation of https://arxiv.org/abs/2108.11554 paper.
+This paper was submitted in Earthvision 2021 workshop (CVPR 2021) under Floodnet[<sup>[1]</sup>](#floodnet-cite) task.
+
+
 # Photo-ColorSketching: Extraction of Color from Images
 
 This project aims to convert photographic images into colored sketches. 
@@ -18,3 +31,5 @@ Download the data [here](https://drive.google.com/drive/folders/11Eg4DZDWptyRdel
 **License**: This work has been apadted from dataset which is licensed under CC BY-NC-SA (Attribution-NonCommercial-ShareAlike). That means you can use this dataset for non-commerical purposes and your adapted work should be shared under similar conditions.
 
 
+## References
+<sup>[1]</sup> [FloodNet: A High Resolution Aerial Imagery Dataset for Post Flood Scene Understanding](https://arxiv.org/abs/2012.02951) <a name="floodnet-cite"/>
