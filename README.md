@@ -10,7 +10,8 @@
 Official implementation of https://arxiv.org/abs/2108.11554 paper.
 This paper was submitted in Earthvision 2021 workshop (CVPR 2021) under Floodnet[<sup>[1]</sup>](#floodnet-cite) task.
 
-This project aims to convert photographic images into colored sketches. 
+This project
+Our work aims to convert photographic images into colored sketches. 
  
 We use the [Contour Drawing Dataset presented in the Photo-Sketching paper](http://www.cs.cmu.edu/~mengtial/proj/sketch/) and propose two ways to extract color information from the images and amalgamate it with the corresponding sketches: 
 - **Rendering Colored Outlines in Sketches**: 
