@@ -10,6 +10,11 @@
 Official implementation of https://arxiv.org/abs/2108.11554 paper.
 This paper was submitted in Earthvision 2021 workshop (CVPR 2021) under Floodnet[<sup>[1]</sup>](#floodnet-cite) task.
 
+## Checkout our model predictions!
+- It is available [here](https://share.streamlit.io/sampai28/generatedsketches/main) on Streamlit Sharing.
+
+## Methodology
+
 Our work aims to convert photographic images into colored sketches. 
  
 We use the [Contour Drawing Dataset presented in the Photo-Sketching paper](http://www.cs.cmu.edu/~mengtial/proj/sketch/) and propose two ways to extract color information from the images and amalgamate it with the corresponding sketches: 
@@ -20,8 +25,6 @@ We use the [Contour Drawing Dataset presented in the Photo-Sketching paper](http
 - **Generating Colored Sketches**: 
   - We propose another method to produce color-filled sketches by performing colorspace manipulation (data_preprocessing.ipynb). 
   - We go a step further to use these sketches as the training dataset for a Generative Adversarial Network and develop a model which can generate colored sketches from unseen images (Sketch_gan.ipynb).
-  
-View our results on [StreamLit app](https://share.streamlit.io/sampai28/generatedsketches/main)
 
 Download the data [here](https://drive.google.com/drive/folders/11Eg4DZDWptyRdel3UH_5wsAMmGy0zzU2?usp=sharing)
 
