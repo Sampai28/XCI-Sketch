@@ -31,5 +31,5 @@ Download the data [here](https://drive.google.com/drive/folders/11Eg4DZDWptyRdel
 **License**: This work has been apadted from dataset which is licensed under CC BY-NC-SA (Attribution-NonCommercial-ShareAlike). That means you can use this dataset for non-commerical purposes and your adapted work should be shared under similar conditions.
 
 
-## References
+
 
