@@ -1,7 +1,7 @@
 <div align="center">
   
 # XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches
-[Harsh Rathod](https://github.com/thecreator-hr), [Manisimha Varma](), [Parna Chowdhury](), [Sameer Saxena](https://github.com/Sampai28), [V Manushree](), [Ankita Ghosh](https://github.com/ankitaghosh9), [Sahil Khose](https://github.com/sahilkhose)
+[Harsh Rathod](https://github.com/thecreator-hr), [Manisimha Varma](https://github.com/Simha55), [Parna Chowdhury](https://github.com/ParnaChowdhury), [Sameer Saxena](https://github.com/Sampai28), [V Manushree](https://github.com/manushree635), [Ankita Ghosh](https://github.com/ankitaghosh9), [Sahil Khose](https://github.com/sahilkhose)
  
 </div>
 
