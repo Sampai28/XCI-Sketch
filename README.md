@@ -32,4 +32,4 @@ Download the data [here](https://drive.google.com/drive/folders/11Eg4DZDWptyRdel
 
 
 ## References
-<sup>[1]</sup> [FloodNet: A High Resolution Aerial Imagery Dataset for Post Flood Scene Understanding](https://arxiv.org/abs/2012.02951) <a name="floodnet-cite"/>
+
