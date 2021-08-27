@@ -1,14 +1,14 @@
 <div align="center">
   
 # XCI-Sketch: Extraction of Color Information from Images for Generation of Colored Outlines and Sketches
-[Harsh Rathod](), [Manisimha Varma](), [Parna Chowdhury](), [Sameer Saxena](https://github.com/Sampai28), [V Manushree](), [Ankita Ghosh](https://github.com/ankitaghosh9), [Sahil Khose](https://github.com/sahilkhose)
+[Harsh Rathod](https://github.com/thecreator-hr), [Manisimha Varma](), [Parna Chowdhury](), [Sameer Saxena](https://github.com/Sampai28), [V Manushree](), [Ankita Ghosh](https://github.com/ankitaghosh9), [Sahil Khose](https://github.com/sahilkhose)
  
 </div>
 
 --------------------------------------------------------------------------------------------
 
 Official implementation of https://arxiv.org/abs/2108.11554 paper.
-This paper was submitted in Earthvision 2021 workshop (CVPR 2021) under Floodnet[<sup>[1]</sup>](#floodnet-cite) task.
+This paper was submitted in SKETCHING FOR HUMAN EXPRESSIVITY 2021 workshop (ICCV 2021).
 
 ## Checkout our model predictions!
 - It is available [here](https://share.streamlit.io/sampai28/generatedsketches/main) on Streamlit Sharing.
