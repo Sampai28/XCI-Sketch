@@ -8,7 +8,7 @@
 --------------------------------------------------------------------------------------------
 
 Official implementation of https://arxiv.org/abs/2108.11554 paper.
-This paper was submitted in SKETCHING FOR HUMAN EXPRESSIVITY 2021 workshop (ICCV 2021).
+This paper was accepted at CtrlGen, Machine for Creativity and Design, Deep Generative Models and their Downstream Applications, and New in ML workshops, NeurIPS 2021 .
 
 ## Checkout our model predictions!
 - It is available [here](https://share.streamlit.io/sampai28/generatedsketches/main) on Streamlit Sharing.
