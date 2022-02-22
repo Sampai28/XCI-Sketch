@@ -28,7 +28,7 @@ We use the [Contour Drawing Dataset presented in the Photo-Sketching paper](http
 
 Download the data [here](https://drive.google.com/drive/folders/11Eg4DZDWptyRdel3UH_5wsAMmGy0zzU2?usp=sharing)
 
-**License**: This work has been apadted from dataset which is licensed under CC BY-NC-SA (Attribution-NonCommercial-ShareAlike). That means you can use this dataset for non-commerical purposes and your adapted work should be shared under similar conditions.
+**License**: This work has been adapted from dataset which is licensed under CC BY-NC-SA (Attribution-NonCommercial-ShareAlike). That means you can use this dataset for non-commerical purposes and your adapted work should be shared under similar conditions.
 
 
 
